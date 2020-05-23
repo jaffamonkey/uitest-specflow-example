@@ -6,6 +6,7 @@
 [Bb]in/
 packages/
 TestResults/
+Xamarin.UITest.SpecFlow/.vs/
 
 # globs
 Makefile.in

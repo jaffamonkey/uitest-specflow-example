@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{0761EBD2-6177-4BDE-AE73-1CF0E53A6411}|Unit Tests">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Xamarin.UITest.SpecFlow" expanded="True">
+            <Node name="Xamarin.UITest.SpecFlow" expanded="True">
+              <Node name="Tests" expanded="True">
+                <Node name="IOSOnly.feature" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Xamarin.UITest.SpecFlow" expanded="True">
+            <Node name="Xamarin.UITest.SpecFlow" expanded="True">
+              <Node name="[default namespace].Xamarin.UITest.SpecFlow.Tests" expanded="True">
+                <Node name="TasksFeature(Android)" expanded="True" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Xamarin.UITest.SpecFlow PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
