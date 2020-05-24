@@ -38,7 +38,7 @@ namespace Xamarin.UITest.SpecFlow
         public static void StartApp()
         {
             string assemblyFolder = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location);
-            string binariesFolder = Path.Combine(assemblyFolder, "..", "..", "..", "Binaries");
+            string binariesFolder = Path.Combine(assemblyFolder, "..", "..", "Binaries");
 
             if (Platform == Platform.Android)
             {
